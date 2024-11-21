@@ -2,7 +2,7 @@
 Systems Engineer with a focus on backend development🧑🏻‍💻<br>Python, Node.js, JavaScript, and SQL👾⚡🐍<br><br>I’m always eager to explore new technologies and push the boundaries of what's possible in the digital world.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/santiagopb23) 
 
 # 💻 Tech Stack:
